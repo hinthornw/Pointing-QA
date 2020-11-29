@@ -1,6 +1,3 @@
-# Point and Ask: Incorporating Pointing into Visual Question Answering
-[Arjun Mani](https://www.linkedin.com/in/arjun-mani/), [William Hinthorn](https://www.linkedin.com/in/williamhinthorn/), Nobline Yoo, [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/)
-
 ## Abstract
 
 Visual Question Answering (VQA) has become one of the key benchmarks of visual recognition progress. Multiple VQA extensions have been explored to better simulate real-world settings: different question formulations, changing training and test distributions, conversational consistency in dialogues, and explanation-based answering. In this work, we further expand this space by considering visual questions that include a spatial point of reference. Pointing is a nearly universal gesture among humans, and real-world VQA is likely to involve a gesture towards the target region. 

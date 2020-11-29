@@ -1,15 +1,3 @@
-# Pointing-QA
+# Point and Ask: Incorporating Pointing into Visual Question Answering
 
-Project website for [PointingQA](https://github.com/princetonvisualai/pointingqa)
-
-## Links:
-
-- [Paper](#TODO)
-- [Code](https://github.com/princetonvisualai/pointingqa)
-- [Local-QA Data](#TODO)
-- [Intent-QA Data](#TODO)
-- [LookTwice-QA Data](#TODO)
-- [Local-QA Model](#TODO)
-- [Intent-QA Semantic Segmentation Model](#TODO)
-- [Intent-QA VQA Model](#TODO)
-- [LookTwice-QA Model](#TODO)
+[Arjun Mani](https://www.linkedin.com/in/arjun-mani/), [William Hinthorn](https://www.linkedin.com/in/williamhinthorn/), Nobline Yoo, [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/)
